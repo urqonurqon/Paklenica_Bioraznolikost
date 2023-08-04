@@ -1,0 +1,3 @@
+URL: http://n3guide.novena.agency/dashboard/login.aspx?ReturnUrl=/dashboard/index.aspx
+USER: test@novena.hr
+PASSWORD: test

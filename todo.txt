@@ -1,0 +1,6 @@
+1. ubaciti virtualkeyboard komponentu
+2. urediti MediaHelper.Get.GetMediaPhotos da vrati orderanu listu po ranku
+3. UInavigation (sastanak)
+4. Delegate controller (sastanak)
+5. Ubaciti funkcionalnu galleriju s pinchzoom-om, primjer MGR-Od trske do kristala
+6. Urediti video player - primjer aplikacija Vukovar Vodotoranj

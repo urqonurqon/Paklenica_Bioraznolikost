@@ -1,0 +1,26 @@
+fileFormatVersion: 2
+guid: b2ce0f6213cc556418305e9d4085eb42
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - DIN Next LT Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 919df8873842a514b8abc746c62d80fd, type: 3}
+  - {fileID: 12800000, guid: b1fe5f0b378493c4595230881519cbd4, type: 3}
+  - {fileID: 12800000, guid: c1f9989b01195c741b687e0ab433f25b, type: 3}
+  - {fileID: 12800000, guid: 6031e24516dfe584298f6467b7c9fa0a, type: 3}
+  - {fileID: 12800000, guid: 9001f202269f3a841bfce9bdd0f41072, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

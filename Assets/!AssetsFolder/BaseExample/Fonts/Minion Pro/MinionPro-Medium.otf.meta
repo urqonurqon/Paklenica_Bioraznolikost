@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 6dc03d9912d4bdc4a8b1381a23f124d0
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Minion Pro
+  fontNames:
+  - Minion Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 434b2946ac29f8e418a59eb276e83c8d, type: 3}
+  - {fileID: 12800000, guid: 9a9d66cddcfea8c4495b14f4d6bd657b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

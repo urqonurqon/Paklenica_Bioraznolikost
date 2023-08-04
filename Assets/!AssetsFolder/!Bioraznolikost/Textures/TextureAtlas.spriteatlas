@@ -1,0 +1,168 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: TextureAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 8192
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 8
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7402cf6dc825fb141b87ca8314c72231, type: 3}
+    - {fileID: 102900000, guid: ed4b98e36778be2418a6c8a16bb472af, type: 3}
+    - {fileID: 102900000, guid: 3f08a5fedcc356647b0e161590d730ce, type: 3}
+    - {fileID: 102900000, guid: c61ec6f2e87c68a418d52016d920c67c, type: 3}
+    - {fileID: 102900000, guid: f31e51379040c254ba3c8e60a418f9e8, type: 3}
+    - {fileID: 102900000, guid: 75cf34952b0a8894b9c385e0abaf851e, type: 3}
+    - {fileID: 102900000, guid: ee6583da39ada3d49a0dc75da67f8def, type: 3}
+    totalSpriteSurfaceArea: 22806537
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3217c7305f6bc0a498981952af259c89, type: 3}
+  - {fileID: 21300000, guid: a2ac39706e9da794c863752bac3a7180, type: 3}
+  - {fileID: 21300000, guid: b14358802bc4e86489060b572101e91b, type: 3}
+  - {fileID: 21300000, guid: fa8ae70140b016f4f9f3afb2b4e98785, type: 3}
+  - {fileID: 21300000, guid: 222917617ee85034a9ed65f55ad3573d, type: 3}
+  - {fileID: 21300000, guid: f106d861bf7d06442821d414dfd58722, type: 3}
+  - {fileID: 21300000, guid: 54dd5cd1c3e41084aa4cc523508efd55, type: 3}
+  - {fileID: 21300000, guid: f2d83df1b53c3f642bed1207737c938b, type: 3}
+  - {fileID: 21300000, guid: 203d70322b61f4a4da4d758d240405e6, type: 3}
+  - {fileID: 21300000, guid: 16cab6d2a41016b4ba84614081f9e9f6, type: 3}
+  - {fileID: 21300000, guid: ec0a53033f208b643a51738b8dd9d980, type: 3}
+  - {fileID: 21300000, guid: bd29b803876d9dc4388a524f3f314bfa, type: 3}
+  - {fileID: 21300000, guid: ed862713525ec4942b338474f5b60bd2, type: 3}
+  - {fileID: 21300000, guid: 4306ac43ce1e7d84c8c9637d01f73105, type: 3}
+  - {fileID: 21300000, guid: 22a56214624fa44419e8596cc5649f61, type: 3}
+  - {fileID: 21300000, guid: 5f28c38429c48fb4f888f04b13953cb6, type: 3}
+  - {fileID: 21300000, guid: c937efa4cb18deb468a9b22a8fa1a662, type: 3}
+  - {fileID: 21300000, guid: 7b5575251ac747648b65f77eb0d88e75, type: 3}
+  - {fileID: 21300000, guid: a58e6175d308cfc4593d75b06a98efce, type: 3}
+  - {fileID: 21300000, guid: e22066b58a523374fbe49582d7081d53, type: 3}
+  - {fileID: 21300000, guid: 9e7cc64634d4d6e49ae0121eb5446965, type: 3}
+  - {fileID: 21300000, guid: 3e5578a667a78f747898fb2b61291ff9, type: 3}
+  - {fileID: 21300000, guid: 9142f0a7e6d46694ca90a29f2e4f1736, type: 3}
+  - {fileID: 21300000, guid: db8f33c7b9611e947bb2bdb66916454c, type: 3}
+  - {fileID: 21300000, guid: ca00ac0850b166c409807ffbb16cad4d, type: 3}
+  - {fileID: 21300000, guid: 2a217ee80310c914783cf5c456dffa2d, type: 3}
+  - {fileID: 21300000, guid: 7e7ec6f815dcd8143a46ceecf4a8f6ab, type: 3}
+  - {fileID: 21300000, guid: f69c8909177d143489ec6e247c4a26da, type: 3}
+  - {fileID: 21300000, guid: 7ef3e959bb9ebcd46bee9792a181841d, type: 3}
+  - {fileID: 21300000, guid: c9ef26693af49f9428ecd0939adae476, type: 3}
+  - {fileID: 21300000, guid: c48e44891b0619d4eb9f707fb662d423, type: 3}
+  - {fileID: 21300000, guid: 7e51a5f9ce0553f4393696e5261ea38e, type: 3}
+  - {fileID: 21300000, guid: a26bb11a27db93b4f86a295c61bef7eb, type: 3}
+  - {fileID: 21300000, guid: 94b7d11aa2c88de4c9fb82b8980f240a, type: 3}
+  - {fileID: 21300000, guid: caf4651ac06489e49847c15a2db6e621, type: 3}
+  - {fileID: 21300000, guid: 6ec20b3a44624614283e50ec05a66745, type: 3}
+  - {fileID: 21300000, guid: 54b3577a10a737e4084d784c0cd5e620, type: 3}
+  - {fileID: 21300000, guid: d00ee8ea287d9de4782523db86a855fd, type: 3}
+  - {fileID: 21300000, guid: d5262cea7d27e044780e292305fb5ec2, type: 3}
+  - {fileID: 21300000, guid: 5948ee7bde434e042ab96787902d338c, type: 3}
+  - {fileID: 21300000, guid: 39fd3b9b5371afa49aac476105c79a83, type: 3}
+  - {fileID: 21300000, guid: ca1772acc0e6bf946aee8669ae3864b6, type: 3}
+  - {fileID: 21300000, guid: 5126315d8ee00294cb40cd54fb9e5d46, type: 3}
+  - {fileID: 21300000, guid: 22e9cc7d424a4c241ae690bb7bba01ee, type: 3}
+  - {fileID: 21300000, guid: 829b0cbd10faf634a9e9fdf32bbf1446, type: 3}
+  - {fileID: 21300000, guid: 2435250e42f4d6b48bf9f23c29d29076, type: 3}
+  - {fileID: 21300000, guid: b42bd25e6257c9644bcfbcc520ee6d95, type: 3}
+  - {fileID: 21300000, guid: 0d16528e8eefd834c995c97b9b530bdb, type: 3}
+  - {fileID: 21300000, guid: 5a08181f614488947b122538a8c87b0f, type: 3}
+  - {fileID: 21300000, guid: a7d1649fd73168e48a44c246c15af490, type: 3}
+  - {fileID: 21300000, guid: 56f1e69fc5bdeee43880b2cb3b40245f, type: 3}
+  - {fileID: 21300000, guid: 99693ecfabd860b45b74d86a6c1d7e07, type: 3}
+  - {fileID: 21300000, guid: e0d116efad30b38438d8b4e214992478, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - WhiteGradientTopToBottom20
+  - VideoPlaceholder
+  - DotCircle
+  - BottomPinContentContainer
+  - Previous
+  - BackgoundRightQuiz
+  - SwipeHand
+  - DragIcon
+  - HappyBird
+  - Union
+  - Paw
+  - PinContainer
+  - 2
+  - WhiteGradientTopToBottom80
+  - SoftMask
+  - TimeSliderBackground
+  - WhiteScrollViewBackground
+  - TopPinContentContainer
+  - Dot
+  - YellowBackgroundRightQuizScreen
+  - Mask
+  - DJI_0010 cb
+  - Legend
+  - Line
+  - SliderFill
+  - InstructionsBackgroundHardShadow
+  - InteractableMap
+  - Next
+  - Line
+  - ClickHand
+  - SliderBar
+  - CloseFullscreenButton
+  - ItemPrefabLine
+  - ScrollViewBackground
+  - PlayPauseBackground
+  - Background
+  - Line
+  - ScrollArrow
+  - Legend with shadow
+  - Pause
+  - SadBird
+  - SideMenuBackground
+  - YellowScrollViewBackground
+  - ScrollHand
+  - Background
+  - OpenFullscreenButton
+  - SideMenuButtonArrow
+  - Line
+  - Play
+  - PopupBackground
+  - MapTerritoryWhite
+  - AudioIcon
+  - MapTerritory
+  m_RenderDataMap: {}
+  m_Tag: TextureAtlas
+  m_IsVariant: 0
